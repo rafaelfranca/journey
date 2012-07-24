@@ -9,6 +9,6 @@ gem "minitest", "~>2.3", :group => [:development, :test]
 gem "racc", ">=1.4.6", :group => [:development, :test]
 gem "rdoc", "~>3.11", :group => [:development, :test]
 gem "json", ">=0", :group => [:development, :test]
-gem "hoe", "~>2.12", :group => [:development, :test]
+gem "hoe", "~> 3.0", :group => [:development, :test]
 
 # vim: syntax=ruby
